@@ -23,6 +23,9 @@
 *.dll
 *.so.*
 
+# Exception: track the compiled release DLL
+!Jetpack-FIXED.dll
+
 
 # Fortran module files
 *.mod
